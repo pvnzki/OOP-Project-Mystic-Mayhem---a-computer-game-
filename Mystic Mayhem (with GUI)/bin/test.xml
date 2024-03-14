@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\CSE MyAca\Program Construction\Projects\Game\mYsTiC MaYheM 1.o\mYsTiC MaYheM 1.o.jar</jar>
+  <outfile>D:\CSE MyAca\Program Construction\Projects\Game\mYsTiC MaYheM 1.o\bin\Mystic Mayhem.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\CSE MyAca\Program Construction\Projects\Game\mYsTiC MaYheM 1.o\res\mysticicon_eoM_icon.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-17</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
