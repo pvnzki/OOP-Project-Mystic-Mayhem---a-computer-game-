@@ -80,48 +80,6 @@ Mystic Mayhem is an engaging computer game that combines strategy, adventure, an
 - **Menu**: ESC key
 - **Interact**: E key
 
-## 📁 Project Structure
-
-```
-OOP-Project-Mystic-Mayhem/
-│
-├── src/
-│   ├── main/
-│   │   ├── Main.java              # Entry point of the application
-│   │   ├── GameEngine.java        # Core game logic
-│   │   └── GameWindow.java        # Main game window
-│   │
-│   ├── characters/
-│   │   ├── Player.java            # Player character class
-│   │   ├── Enemy.java             # Enemy base class
-│   │   └── NPC.java               # Non-player characters
-│   │
-│   ├── items/
-│   │   ├── Item.java              # Base item class
-│   │   ├── Weapon.java            # Weapon items
-│   │   └── Potion.java            # Health/mana potions
-│   │
-│   ├── gui/
-│   │   ├── GamePanel.java         # Main game panel
-│   │   ├── MenuPanel.java         # Game menus
-│   │   └── InventoryPanel.java    # Inventory interface
-│   │
-│   └── utils/
-│       ├── GameState.java         # Game state management
-│       └── FileHandler.java       # Save/load functionality
-│
-├── resources/
-│   ├── images/                    # Game sprites and images
-│   ├── sounds/                    # Audio files
-│   └── data/                      # Game data files
-│
-├── docs/
-│   └── game-design.md            # Game design documentation
-│
-├── README.md
-└── .gitignore
-```
-
 ## 🏗️ OOP Concepts Implemented
 
 This project demonstrates various Object-Oriented Programming principles:
@@ -168,10 +126,10 @@ This project is created for educational purposes as part of the Computer Science
 
 ## 👨‍💻 Authors
 
-- **[Pavan Epa]** - *Lead Developer* - [@pvnzki](https://github.com/iransamarasekara)
+- **[Iran Samarasekara]** - *Lead Developer* - [@pvnzki](https://github.com/iransamarasekara)
 - **[Pavan Epa]** - *GUI Developer* - [@pvnzki](https://github.com/pvnzki)
-- **[Pavan Epa]** - *Game Physics Developer* - [@pvnzki](https://github.com/chameera)
-- **[Pavan Epa]** - *GUI Developer* - [@pvnzki](https://github.com/janinduRSD)
+- **[Dinith Chameera]** - *Game Physics Developer* - [@pvnzki](https://github.com/chameera)
+- **[Janindu Ransika]** - *GUI Developer* - [@pvnzki](https://github.com/janinduRSD)
 
 ## 🙏 Acknowledgments
 
